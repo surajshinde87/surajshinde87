@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Suraj Shinde
-**A passionate Software Engineer || FullStack Developer || MERN Specialist**
+**A passionate Software Developer || FullStack Developer || MERN Specialist**
 
 Email Me 👉 ✉️ **surajpshinde8767@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
