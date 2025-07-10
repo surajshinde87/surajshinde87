@@ -11,8 +11,93 @@ Email Me 👉 ✉️ **surajpshinde8767@gmail.com** For Collaboration/Project or
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 💻 Tech Stack
+
+### 🧑‍💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54)
+
+---
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&logo=tailwind-css&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?&logo=next.js&logoColor=white)
+
+---
+
+### 🛠️ Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?&logo=express&logoColor=%2361DAFB)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?&logo=nodemon&logoColor=%BBDEAD)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?&logo=socket.io&badgeColor=010101)
+
+---
+
+### 🗃️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?&logo=Prisma&logoColor=white)
+
+---
+
+### 📦 Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&logo=tailwind-css&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?&logo=express&logoColor=%2361DAFB)
+
+---
+
+### ✨ Animations & UI Design
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?&logo=greensock&logoColor=black)
+![Framer Motion](https://img.shields.io/badge/framer-motion-%23121011.svg?&logo=framer&logoColor=white)
+
+---
+
+### ☁️ Integrations & Cloud Services
+![Razorpay](https://img.shields.io/badge/razorpay-%2300C4CC.svg?&logo=razorpay&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/cloudinary-0A2540?&logo=cloudinary&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?&logo=netlify&logoColor=#00C7B7)
+
+---
+
+### 🛠️ Dev Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white)
+
+## 💼 Experience
+
+### 🧑‍💻 Software Intern – PRYM Aerospace Pvt. Ltd.  
+**Oct 2024 – Jan 2025 (On Site)**    
+
+**Key Contributions:**
+- Contributed to the development of an **AI-based crop advisory platform** by integrating APIs for real-time weather and soil data (EOS, Meteomatics).
+- Worked on building and improving **backend APIs** using **Node.js**, **Express.js**, and **MongoDB**, with secure JWT authentication.
+- Developed reusable **React.js components** and integrated them with backend endpoints to ensure seamless user experiences.
+- Conducted API research, designed response handling logic, and built scalable modules to support field-level agricultural data processing.
+- Collaborated closely with the team to implement real-world features like **NDVI visualization**, **field creation**, and **dynamic data fetching**.
+- Wrote clean, maintainable code with version control using **Git** and deployed apps on **Render** and **Netlify**.
+
+**Tech Stack Used**:  
+React.js, Node.js, Express.js, MongoDB, JWT, REST APIs, Git, Postman, EOS API, Meteomatics API
+
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=surajshinde87&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=surajshinde87&theme=dark&hide_border=false)<br/>
@@ -27,4 +112,3 @@ Email Me 👉 ✉️ **surajpshinde8767@gmail.com** For Collaboration/Project or
 ---
 [![](https://visitcount.itsvg.in/api?id=surajshinde87&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
