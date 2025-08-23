@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **surajpshinde8767@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surajshinde_87) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajshinde87) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/30600357/suraj-shinde) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/surajshinde_87) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajpshinde8767@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surajshinde_87) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajshinde87)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/surajshinde_87) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajpshinde8767@gmail.com) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -42,9 +42,7 @@ Email Me 👉 ✉️ **surajpshinde8767@gmail.com** For Collaboration/Project or
 ### 🗃️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?&logo=Prisma&logoColor=white)
+
 
 ---
 
