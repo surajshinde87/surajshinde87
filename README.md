@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Suraj Shinde
-**A passionate Software Developer || FullStack Developer || MERN Specialist**
+**A passionate Software Developer || MERN Stack || Java FullStack**
 
 Email Me 👉 ✉️ **surajpshinde8767@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -13,15 +13,15 @@ Email Me 👉 ✉️ **surajpshinde8767@gmail.com** For Collaboration/Project or
 
 ## 💻 Tech Stack
 
-### 🧑‍💻 Programming Languages
+### 🧑‍💻 Programming Languages  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54)
 
 ---
 
-### 🌐 Frontend
+### 🌐 Frontend  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB)
@@ -31,48 +31,42 @@ Email Me 👉 ✉️ **surajpshinde8767@gmail.com** For Collaboration/Project or
 
 ---
 
-### 🛠️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?&logo=node.js&logoColor=white)
+### 🛠️ Backend  
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?&logo=express&logoColor=%2361DAFB)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?&logo=nodemon&logoColor=%BBDEAD)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?&logo=socket.io&badgeColor=010101)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?&logo=gradle&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?&logo=hibernate&logoColor=white)
 
 ---
 
-### 🗃️ Databases
+### 🗃️ Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&logo=mysql&logoColor=white)
 
-
 ---
 
-### 📦 Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&logo=tailwind-css&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?&logo=express&logoColor=%2361DAFB)
-
----
-
-### ✨ Animations & UI Design
+### 📦 Libraries & Tools  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?&logo=greensock&logoColor=black)
-![Framer Motion](https://img.shields.io/badge/framer-motion-%23121011.svg?&logo=framer&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/framer--motion-%23121011.svg?&logo=framer&logoColor=white)
 
 ---
 
-### ☁️ Integrations & Cloud Services
-![Razorpay](https://img.shields.io/badge/razorpay-%2300C4CC.svg?&logo=razorpay&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/cloudinary-0A2540?&logo=cloudinary&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?&logo=render&logoColor=white)
+### ☁️ Cloud & Deployment  
+![Render](https://img.shields.io/badge/Render-46E3B7.svg?&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?&logo=netlify&logoColor=#00C7B7)
+![Cloudinary](https://img.shields.io/badge/cloudinary-0A2540?&logo=cloudinary&logoColor=white)
+![Razorpay](https://img.shields.io/badge/razorpay-%2300C4CC.svg?&logo=razorpay&logoColor=white)
 
 ---
 
-### 🛠️ Dev Tools
+### 🧰 DevOps & Tools  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?&logo=gitlab&logoColor=white)
