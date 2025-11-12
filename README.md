@@ -88,7 +88,7 @@ Email Me 👉 ✉️ **surajpshinde8767@gmail.com** For Collaboration/Project or
 - Wrote clean, maintainable code with version control using **Git** and deployed apps on **Render** and **Netlify**.
 
 **Tech Stack Used**:  
-React.js, Node.js, Express.js, MongoDB, JWT, REST APIs, Git, Postman, EOS API
+Python, React.js, Node.js, Express.js, MongoDB, JWT, REST APIs, Git, Postman
 
 ---
 # 📊 GitHub Stats:
