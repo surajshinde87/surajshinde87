@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Suraj Shinde
-**A passionate Software Developer || MERN Stack || Java FullStack**
+**A passionate Software Developer || Java FullStack || MERN Stack**
 
 Email Me 👉 ✉️ **surajpshinde8767@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -27,7 +27,7 @@ Email Me 👉 ✉️ **surajpshinde8767@gmail.com** For Collaboration/Project or
 ![React](https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&logo=tailwind-css&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next-black?&logo=next.js&logoColor=white)
 
 ---
 
@@ -37,15 +37,28 @@ Email Me 👉 ✉️ **surajpshinde8767@gmail.com** For Collaboration/Project or
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?&logo=socket.io&badgeColor=010101)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?&logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?&logo=gradle&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?&logo=hibernate&logoColor=white)
 
 ---
 
 ### 🗃️ Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&logo=mysql&logoColor=white)
+
+---
+
+### 🧪 Testing & Quality Assurance  
+![JUnit](https://img.shields.io/badge/JUnit-25A162?&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78C257?&logo=java&logoColor=white)
+
+---
+
+### 🔄 CI/CD & Code Quality  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?&logo=jenkins&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?&logo=sonarqube&logoColor=white)
 
 ---
 
@@ -72,6 +85,7 @@ Email Me 👉 ✉️ **surajpshinde8767@gmail.com** For Collaboration/Project or
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?&logo=gitlab&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white)
+
 
 ---
 ## 💼 Experience
