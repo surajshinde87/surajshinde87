@@ -90,7 +90,7 @@ Email Me 👉 ✉️ **surajpshinde8767@gmail.com** For Collaboration/Project or
 ---
 ## 💼 Experience
 
-###🧑‍💻 Jr. Software Developer – Dakshabhi IT Solutions Pvt. Ltd.
+### 🧑‍💻 Jr. Software Developer – Dakshabhi IT Solutions Pvt. Ltd.
 
 **Feb 2026 – Present | Full-Time**
 
