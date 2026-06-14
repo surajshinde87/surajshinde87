@@ -90,6 +90,22 @@ Email Me 👉 ✉️ **surajpshinde8767@gmail.com** For Collaboration/Project or
 ---
 ## 💼 Experience
 
+###🧑‍💻 Jr. Software Developer – Dakshabhi IT Solutions Pvt. Ltd.
+
+**Feb 2026 – Present | Full-Time**
+
+Key Contributions:
+- Developing and maintaining Electronic Travel Authorization (ESTA & ETA) visa processing systems using Java Spring Boot and React.js.
+- Building secure and scalable backend services, REST APIs, and business workflows for visa application management.
+- Designing, optimizing, and maintaining SQL databases to ensure high performance, data integrity, and secure storage of applicant information.
+- Implementing and managing CI/CD pipelines with Jenkins, automating build, testing, and deployment processes to improve development efficiency.
+- Collaborating with cross-functional teams using Git and modern development practices to streamline code reviews, version control, and project delivery.
+- Enhancing application performance, debugging production issues, and ensuring system reliability through continuous monitoring and optimization.
+- Integrating third-party services and APIs to support document verification, application tracking, and automated processing workflows.
+
+**Tech Stack Used:**
+Java, Spring Boot, React.js, SQL, REST APIs, Jenkins, Git, CI/CD, HTML, CSS, JavaScript
+
 ### 🧑‍💻 Software Intern – PRYM Aerospace Pvt. Ltd.  
 **Oct 2024 – Jan 2025 (On Site)**    
 
